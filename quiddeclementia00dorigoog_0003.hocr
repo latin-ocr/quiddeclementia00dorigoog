@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quiddeclementia00dorigoog_0003.png"; bbox 0 0 883 1310; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 288 585 556 612">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 288 585 556 612">
+     <span class='ocr_line' id='line_1_1' title="bbox 288 585 556 612; baseline 0.015 -9"><span class='ocrx_word' id='word_1_1' title='bbox 288 585 374 606; x_wconf 46' lang='lat' dir='ltr'>&amp;arbath</span> <span class='ocrx_word' id='word_1_2' title='bbox 389 585 464 610; x_wconf 55' lang='lat' dir='ltr'>&amp;nume</span> <span class='ocrx_word' id='word_1_3' title='bbox 477 587 556 612; x_wconf 56' lang='lat' dir='ltr'>{ibrum</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 384 634 460 644">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 384 634 460 644">
+     <span class='ocr_line' id='line_1_2' title="bbox 384 634 460 644; baseline 0.013 -1"><span class='ocrx_word' id='word_1_4' title='bbox 384 634 422 644; x_wconf 74' lang='lat' dir='ltr'>nom</span> <span class='ocrx_word' id='word_1_5' title='bbox 431 635 460 644; x_wconf 69' lang='lat' dir='ltr'>rus</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 267 667 577 684">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 267 667 577 684">
+     <span class='ocr_line' id='line_1_3' title="bbox 267 667 577 684; baseline 0.01 -3"><span class='ocrx_word' id='word_1_6' title='bbox 267 667 457 683; x_wconf 64' lang='lat' dir='ltr'>SALxs-EURY</span> <span class='ocrx_word' id='word_1_7' title='bbox 484 670 577 684; x_wconf 69' lang='lat' dir='ltr'>FUND,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 239 727 289 740">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 239 727 289 740">
+     <span class='ocr_line' id='line_1_4' title="bbox 239 727 289 740; baseline 0.02 -3"><span class='ocrx_word' id='word_1_8' title='bbox 239 727 251 737; x_wconf 75' lang='lat' dir='ltr'>ln</span> <span class='ocrx_word' id='word_1_9' title='bbox 265 727 289 740; x_wconf 50' lang='lat' dir='ltr'>,sss</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 883 1310">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 883 1310">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 883 1310; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 883 1310; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
